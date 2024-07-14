@@ -1470,3 +1470,8 @@ footer .credits a {
     bottom: 15px;
   }
 }
+#msg{
+  margin-top: -40px;
+  display: block;
+  color: #ababab;
+}
